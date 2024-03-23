@@ -7,4 +7,14 @@ About files:
 3)Project management tool - AIMS grid contains 4 components there are:
 
 Purpose,Stakeholder,EndResult and Success criteria
-       
+
+Sample report
+
+Basic Analysis:
+
+!['Basic Analysis'](imgs/Basic_Analysis.png 'Basic Analysis Graph') 
+
+Profit Analysis:
+
+!['Profit Analysis'](imgs/Profit_Analysis.png 'Profit Analysis Graph')
+
