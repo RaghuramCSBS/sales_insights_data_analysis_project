@@ -1,0 +1,19 @@
+Sales Insights Data Analysis
+
+
+
+
+
+
+AIMS grid :is project management tool it have  4 components
+
+
+1)purpose - To unlock sales insights that are not visible before for sales team for taking decisions and automate them to reduce manual time spent on data gathering
+2)stakeholders - IT, Sales team, marketing team ,sales director and data analytics team
+3)End result - an automated dashboard that providing quick and latest sales insights in order to support data-driven decision making
+4)Success criteria -
+• Dashboard(s) uncovering sales order insights with latest data available
+
+• Sales team able to take better decisions & prove 10% cost savings of total spending 
+
+• Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity
